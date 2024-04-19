@@ -35,4 +35,3 @@ endmodule
 # RESULT:
 Thus the verilog program for full adder has been simulated and verified successfully.
 
-
